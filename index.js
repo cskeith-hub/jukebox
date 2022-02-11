@@ -43,6 +43,11 @@ const theGreatestMusicCollection = [
     },
 ]
 console.log(theGreatestMusicCollection);
+console.log(theGreatestMusicCollection[3].author);
+for (let i = 0; i < theGreatestMusicCollection.length; i++){
+    console.log(theGreatestMusicCollection[i].title);
+}
+
 // --- 🌱 Basics ---
 // TODO: select the author of Baiana
 // TODO: log all song titles
