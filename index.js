@@ -42,7 +42,7 @@ const theGreatestMusicCollection = [
         ],
     },
 ]
-
+console.log(theGreatestMusicCollection);
 // --- 🌱 Basics ---
 // TODO: select the author of Baiana
 // TODO: log all song titles
